@@ -1,0 +1,51 @@
+Product,Quantity,Price,Location,Purchase_DateTime
+Monitor,2,498.86,Chicago,2023-12-26 16:11:33
+Projector,3,1023.43,Houston,2023-01-02 09:47:54
+Drone,3,1165.41,San Diego,2023-02-23 15:23:36
+Router,3,1548.68,Philadelphia,2023-04-16 11:43:39
+Keyboard,4,135.03,San Diego,2023-09-17 14:26:34
+Monitor,4,1989.37,New York,2023-11-06 09:34:36
+Printer,3,966.39,San Diego,2023-07-10 11:00:04
+Router,4,595.14,Houston,2023-08-06 18:54:13
+Router,1,1772.81,New York,2023-02-13 15:26:08
+Smartwatch,1,1508.05,San Diego,2023-06-11 18:41:59
+Keyboard,4,1908.49,Houston,2023-07-21 11:31:38
+Tablet,4,694.96,Philadelphia,2023-09-27 09:51:31
+Laptop,3,1127.89,San Diego,2023-12-17 12:29:36
+Smart TV,2,1165.97,Houston,2023-10-31 15:38:44
+Bluetooth Speaker,4,1961.65,Chicago,2023-09-28 19:28:35
+Laptop,1,196.93,Dallas,2023-08-03 15:58:50
+Smartphone,3,646.11,Chicago,2023-09-09 14:27:01
+Smart TV,4,422.28,Dallas,2023-07-09 18:44:56
+Smart TV,1,573.53,Los Angeles,2023-10-23 13:05:27
+E-reader,1,996.3,Los Angeles,2023-08-01 12:29:10
+External SSD,2,776.74,Los Angeles,2023-07-27 18:54:27
+Action Camera,3,819.65,Philadelphia,2023-08-25 17:38:32
+Drone,3,1696.22,Chicago,2023-12-04 09:56:26
+Drone,2,1863.53,Dallas,2023-02-22 17:51:12
+Printer,2,187.31,Houston,2023-10-07 17:02:38
+Smart TV,3,457.39,New York,2023-08-05 14:07:26
+Projector,3,1358.73,Houston,2023-09-09 17:36:32
+Tablet,4,749.36,New York,2023-07-07 11:41:43
+Wireless Earbuds,4,545.62,Phoenix,2023-02-10 16:14:58
+Printer,2,625.82,Houston,2023-06-06 14:31:31
+Monitor,4,678.97,San Diego,2023-01-15 16:40:51
+Mouse,1,1704.91,San Diego,2023-10-28 09:48:57
+Monitor,4,316.41,San Antonio,2023-03-06 12:11:38
+VR Headset,4,1432.38,Chicago,2023-12-11 10:02:48
+Smartwatch,1,1128.0,New York,2023-11-23 13:48:55
+Game Console,2,628.19,New York,2023-01-09 09:58:48
+VR Headset,1,868.57,Chicago,2023-12-10 10:01:27
+Mouse,4,549.6,Philadelphia,2023-05-09 14:22:36
+Laptop,2,1242.45,San Antonio,2023-05-16 09:00:18
+Projector,4,209.11,Philadelphia,2023-03-04 10:52:43
+Drone,1,60.11,Philadelphia,2023-05-19 18:31:05
+Monitor,1,1274.39,Philadelphia,2023-03-22 15:03:54
+Smart TV,4,428.83,Chicago,2023-06-12 19:55:58
+Keyboard,3,188.33,Philadelphia,2023-10-16 09:37:23
+Drone,3,823.73,San Diego,2023-09-18 13:51:33
+Tablet,1,149.0,Los Angeles,2023-08-19 14:21:10
+Game Console,1,1778.9,Phoenix,2023-02-10 09:08:59
+E-reader,3,103.85,New York,2023-01-28 19:05:15
+Smartwatch,3,1178.79,New York,2023-05-15 11:19:59
+VR Headset,4,905.02,Phoenix,2023-07-20 19:35:18
